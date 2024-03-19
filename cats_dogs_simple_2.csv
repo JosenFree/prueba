@@ -1,0 +1,9 @@
+#group,false,false,false,false,true,true
+#datatype,string,long,dateTime:RFC3339,double,string,string
+#default,_result,,,,,
+,result,table,_time,_value,_field,_measurement
+,,0,2020-05-15T18:50:33.262484Z,20,,Temperatura
+,,0,2020-05-15T18:51:48.852085Z,21,,Temperatura
+,,0,2020-05-15T18:52:31.597721Z,22.3,,Temperatura
+,,0,2020-05-15T18:53:03.635879Z,21,,Temperatura
+,,0,2020-05-15T18:59:06.027183Z,24,,Temperatura
